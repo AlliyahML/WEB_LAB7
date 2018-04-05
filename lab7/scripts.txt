@@ -1,0 +1,16 @@
+. bin/activate
+//install
+//create virtual environment
+virtualenv -p python3 lab7
+//cd into folder
+cd Foldername
+
+//install django
+
+django vs 
+-must abide by rules.
+-software architecture MVT/MVC
+views=templates.
+
+ORM
+model->class->obj
